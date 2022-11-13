@@ -23,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/-AndroidStudio-0D1117?style=for-the-badge&logo=androidstudio&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-MaterialDesign-0D1117?style=for-the-badge&logo=materialdesign&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-TesteUnitario-0D1117?style=for-the-badge&logo=testeunitario&labelColor=0D1117)&nbsp;
+
 
 ### 🙋🏻‍♂️ Sobre mim  🙋🏻‍♂️
 - 📅 22 anos
