@@ -27,5 +27,5 @@
 
 ##
 ### Projetos Futuros
-- Jetpack Compose
-- Flutter
+![GitHub](https://img.shields.io/badge/-JetpackCompose-0D1117?style=for-the-badge&logo=jetpackcompose&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
