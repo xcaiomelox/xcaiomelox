@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Olá!;🤟+Eu+sou+Caio+🤟;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
 ##
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+
 
 ### 👔 Carreira 👔
 
@@ -13,10 +13,13 @@
 
 
 ### 📚 Conhecimentos 🧠
-- Android Development
-- Kotlin
-- Material Design
-- Testes unitários
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+
+![GitHub](https://img.shields.io/badge/-AndroidStudio-0D1117?style=for-the-badge&logo=androidstudio&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-MaterialDesign-0D1117?style=for-the-badge&logo=materialdesign&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-TestesUnitarios-0D1117?style=for-the-badge&logo=testesunitarios&labelColor=0D1117)&nbsp;
 
 ### 🙋🏻‍♂️ Sobre mim  🙋🏻‍♂️
 - 📅 22 anos
