@@ -8,13 +8,17 @@
 ### 👔 Carreira 👔
 
 - 🎓 Cursando Sistemas de Informação no Descomplica *(1/8)*
+
+<img align="right" alt="Coding" width="400"  height="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+
 - 👨🏻‍💻 Logística e projeto mobile na Norpem Comercial LTDA
+
 - 🕒 6 meses de experiência
 
 
 ### 📚 Conhecimentos 🧠
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+
 
 ![GitHub](https://img.shields.io/badge/-AndroidStudio-0D1117?style=for-the-badge&logo=androidstudio&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117)&nbsp;
