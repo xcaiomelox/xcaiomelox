@@ -13,7 +13,7 @@
 
 - 👨🏻‍💻 Logística e Projeto Mobile na Norpem Comercial LTDA
 
-- 🕒 6 meses de experiência
+- 🕒 10 meses de experiência
 
 
 ### 📚 Conhecimentos 🧠
