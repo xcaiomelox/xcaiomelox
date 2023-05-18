@@ -23,8 +23,8 @@
 
 
 ### 🙋🏻‍♂️ Sobre mim  🙋🏻‍♂️
-- 📅 22 anos
-- 🎮 Viciado em Warzone e Tiranos
+- 📅 23 anos
+- 🎮 Amo games
 - 🏋🏻‍♂️ Apaixonado por fitness
 - 🎵 Amante de música 
 - ✈️ Amo viagens
